@@ -1,0 +1,17 @@
+
+...
+
+main:
+  - title: "About"
+    icon: "person"
+    slug: "about"
+    sections:
+        - about
+        - services
+        - pricing
+        - facts
+        - clients
+        - testimonials
+
+...
+		
